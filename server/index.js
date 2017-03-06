@@ -10,17 +10,17 @@ app.use(async (ctx, next) => {
     await next();
 })
 
-require('./router')(router);
-
-app.use(router.routes());
-app.use(router.allowedMethods());
-
 app.use(async (ctx, next) => {
     const start = new Date();
     await next();
     const ms = new Date - start;
     console.log(`${ctx.method} ${ctx.url} - ${ms}ms`);
 })
+
+require('./router')(router);
+
+app.use(router.routes());
+app.use(router.allowedMethods());
 
 app.use(async (ctx, res) => {
     ctx.body = 'hello FS';
