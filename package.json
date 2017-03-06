@@ -1,0 +1,21 @@
+{
+  "name": "fs-backend",
+  "version": "1.0.0",
+  "description": "FS backend project based on koajs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TraJoe_Wu <traveller_wjoe@sina.com>",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.0.1",
+    "koa-router": "^7.1.0",
+    "superagent": "^3.5.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-plugin-transform-async-to-generator": "^6.22.0",
+    "babel-plugin-transform-async-to-module-method": "^6.22.0"
+  }
+}
