@@ -2,6 +2,14 @@ const Koa = require('koa');
 const Router = require('koa-router');
 const app = new Koa();
 const router = new Router();
+
+app.use(async (ctx, next) => {
+    ctx.set({
+        'Access-Control-Allow-Origin': '*'
+    })
+    await next();
+})
+
 require('./router')(router);
 
 app.use(router.routes());
@@ -14,7 +22,7 @@ app.use(async (ctx, next) => {
     console.log(`${ctx.method} ${ctx.url} - ${ms}ms`);
 })
 
-app.use(async ctx => {
+app.use(async (ctx, res) => {
     ctx.body = 'hello FS';
 })
 
