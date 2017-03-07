@@ -7,7 +7,8 @@ class Api {
         this.baseUrl = config.ApiBaseUrl;
     }
     getLive() {
-        const apiUrl = url.resolve(this.baseUrl, 'score/data');
+        // const apiUrl = url.resolve(this.baseUrl, 'score/data');
+        const apiUrl = url.resolve(this.baseUrl, 'v6/score');
         return new Promise((resolve, reject) => {
             request
                 .get(apiUrl)
