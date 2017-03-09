@@ -2,10 +2,14 @@ const Koa = require('koa');
 const Router = require('koa-router');
 const app = new Koa();
 const router = new Router();
+const http = require('http').createServer(app.callback())
+require('./socket')(http)
+
 
 app.use(async (ctx, next) => {
     ctx.set({
-        'Access-Control-Allow-Origin': '*'
+        'Access-Control-Allow-Origin': 'http://localhost:8080',
+        'Access-Control-Allow-Credentials': true
     })
     await next();
 })
@@ -22,8 +26,9 @@ require('./router')(router);
 app.use(router.routes());
 app.use(router.allowedMethods());
 
+
 app.use(async (ctx, res) => {
     ctx.body = 'hello FS';
 })
 
-app.listen(5555);
+http.listen(5555);
