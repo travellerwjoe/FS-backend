@@ -8,7 +8,7 @@ require('./socket')(http)
 
 app.use(async (ctx, next) => {
     ctx.set({
-        'Access-Control-Allow-Origin': 'http://localhost:8080',
+        'Access-Control-Allow-Origin': '*',
         'Access-Control-Allow-Credentials': true
     })
     await next();

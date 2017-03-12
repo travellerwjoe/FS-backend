@@ -13,8 +13,8 @@ class Api {
             request
                 .get(apiUrl)
                 .end((err, res) => {
-                    err && console.log(err);
-                    resolve(res.text);
+                    err && console.log(err.message);
+                    (res && res.text) ?resolve(res.text): resolve('[]');
                 })
         })
     }
