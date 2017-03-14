@@ -4,16 +4,24 @@ module.exports = http => {
     const io = require('socket.io')(http);
     let t;
     io.on('connection', socket => {
-        console.log('connection')
-        socket.on('fetchLive', socket => {
+        const clientIp = socket.conn.remoteAddress
+        console.log(`+connection from ${clientIp}`)
+        socket.on('fetchLive', (stopFetch) => {
+            clearTimeout(t)
             async function sendLive() {
                 clearTimeout(t)
-                io.emit('live', JSON.parse(await api.getLive()))
+                io.emit('fetchLive', JSON.parse(await api.getLive()))
                 t = setTimeout(function () {
                     sendLive()
                 }, 5000)
             }
             sendLive()
+
+        })
+
+        socket.on('disconnect', reason => {
+            console.log(`-disconnect from ${clientIp} , reason : ${reason}`)
+            // socket.disconnect(true)
         })
     })
 }
