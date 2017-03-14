@@ -21,6 +21,7 @@ module.exports = http => {
 
         socket.on('disconnect', reason => {
             console.log(`-disconnect from ${clientIp} , reason : ${reason}`)
+            clearTimeout(t)
             // socket.disconnect(true)
         })
     })
