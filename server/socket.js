@@ -13,7 +13,7 @@ module.exports = http => {
                 io.emit('fetchLive', JSON.parse(await api.getLive()))
                 t = setTimeout(function () {
                     sendLive()
-                }, 10000)
+                }, 15000)
             }
             sendLive()
 
