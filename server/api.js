@@ -12,6 +12,7 @@ class Api {
         return new Promise((resolve, reject) => {
             request
                 .get(apiUrl)
+                .timeout(10000)
                 .end((err, res) => {
                     err && console.log(err.message);
                     (res && res.text) ?resolve(res.text): resolve('[]');
