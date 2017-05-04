@@ -7,18 +7,22 @@ module.exports = http => {
     io.on('connection', socket => {
         const clientIp = socket.conn.remoteAddress
         console.log(`+connection from ${clientIp}`)
-        socket.on('fetchLive', () => {
+        socket.on('fetchLive', (isStop) => {
             clearTimeout(t)
+            console.log(t)
+            console.log(isStop)
             async function sendLive() {
+                console.log('jjjj')
                 clearTimeout(t)
                 io.emit('fetchLive', JSON.parse(await api.getLive()))
                 t = setTimeout(function () {
                     sendLive()
                 }, config.SocketSendInterval)
             }
-            sendLive()
+            !isStop && sendLive()
 
         })
+
 
         socket.on('fetchMatchDetail', (matchID) => {
             clearTimeout(t)

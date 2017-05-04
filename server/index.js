@@ -1,9 +1,12 @@
+// const session = require('koa-session');
 const Koa = require('koa');
 const Router = require('koa-router');
+
 const app = new Koa();
 const router = new Router();
 const http = require('http').createServer(app.callback())
 require('./socket')(http)
+
 
 
 app.use(async (ctx, next) => {
@@ -13,6 +16,8 @@ app.use(async (ctx, next) => {
     })
     await next();
 })
+
+// app.use(Session(app))
 
 app.use(async (ctx, next) => {
     const start = new Date();
