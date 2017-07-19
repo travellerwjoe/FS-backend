@@ -9,6 +9,7 @@
   "author": "TraJoe_Wu <traveller_wjoe@sina.com>",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.4.1",
     "koa": "^2.0.1",
     "koa-router": "^7.1.0",
     "koa-session": "^5.0.0",

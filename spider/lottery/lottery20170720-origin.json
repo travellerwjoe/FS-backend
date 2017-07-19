@@ -1,0 +1,3557 @@
+[
+    {
+        "total": 55,
+        "page": 1,
+        "per_page": 30,
+        "jingcai": [
+            {
+                "id": "3866538",
+                "type": "rangfen",
+                "pankou": "0.0,-0.5",
+                "peilv": "1.825",
+                "yazhu": "lt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500502929",
+                "reason": "",
+                "all_peilv": "1.975|1.825",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/ee57a0c7a4c63e2e50dbff8b8529f42d.jpg",
+                    "user_id": "86111",
+                    "username": "zudiak13",
+                    "is_zhuanti": "0",
+                    "level": "20",
+                    "bangdan_type": "zhuanjia_week_yinglilv",
+                    "bangdan_order": "5",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347711",
+                    "status": "1",
+                    "race_time": "1500503366",
+                    "focus": "2",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "1079",
+                        "name": "亚足联锦标赛 23岁以下",
+                        "country_id": "4",
+                        "short_name": "AFC U23",
+                        "standard_name": "亚足联锦标赛 23岁以下",
+                        "sb_name": "亚足联锦标赛 23岁以下"
+                    },
+                    "host": {
+                        "id": "5868",
+                        "name": "阿联酋 23岁以下",
+                        "standard_name": "阿联酋 23岁以下",
+                        "sb_name": "阿联酋 23岁以下"
+                    },
+                    "guest": {
+                        "id": "8847",
+                        "name": "乌兹别克斯坦 23岁以下",
+                        "standard_name": "乌兹别克斯坦 23岁以下",
+                        "sb_name": "乌兹别克U23"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3858009",
+                "type": "rangfen",
+                "pankou": "+1.0,+1.5",
+                "peilv": "1.700",
+                "yazhu": "gt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500424388",
+                "reason": "",
+                "all_peilv": "1.700|2.200",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/e741ca80f6080e763975ee650b93b194.jpg",
+                    "user_id": "16096",
+                    "username": "GOLF93",
+                    "is_zhuanti": "0",
+                    "level": "16",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "17",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347284",
+                    "status": "1",
+                    "race_time": "1500507014",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": "7",
+                    "guest_pm": "2",
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "327",
+                        "name": "芬兰甲级联赛",
+                        "country_id": "61",
+                        "short_name": "芬甲",
+                        "standard_name": "芬兰甲级联赛",
+                        "sb_name": "芬兰甲级联赛"
+                    },
+                    "host": {
+                        "id": "1764",
+                        "name": "EIF",
+                        "standard_name": "EIF埃克纳斯",
+                        "sb_name": "EIF埃克纳斯"
+                    },
+                    "guest": {
+                        "id": "2088",
+                        "name": "洪卡",
+                        "standard_name": "洪卡",
+                        "sb_name": "洪卡"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3858023",
+                "type": "rangfen",
+                "pankou": "0.0,+0.5",
+                "peilv": "1.825",
+                "yazhu": "gt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500424421",
+                "reason": "",
+                "all_peilv": "1.825|2.025",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/e741ca80f6080e763975ee650b93b194.jpg",
+                    "user_id": "16096",
+                    "username": "GOLF93",
+                    "is_zhuanti": "0",
+                    "level": "16",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "17",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347286",
+                    "status": "1",
+                    "race_time": "1500507015",
+                    "focus": "1",
+                    "important": "0",
+                    "host_pm": "8",
+                    "guest_pm": "1",
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "327",
+                        "name": "芬兰甲级联赛",
+                        "country_id": "61",
+                        "short_name": "芬甲",
+                        "standard_name": "芬兰甲级联赛",
+                        "sb_name": "芬兰甲级联赛"
+                    },
+                    "host": {
+                        "id": "4812",
+                        "name": "查路",
+                        "standard_name": "查路",
+                        "sb_name": "查路"
+                    },
+                    "guest": {
+                        "id": "13117",
+                        "name": "KPV",
+                        "standard_name": "KPV",
+                        "sb_name": "KPV科高拉"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3866150",
+                "type": "daxiao",
+                "pankou": "2.5,3.0",
+                "peilv": "1.775",
+                "yazhu": "gt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500501085",
+                "reason": "",
+                "all_peilv": "1.775|2.100",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/176699c00e5861203e3872faa8fc5961.jpg",
+                    "user_id": "48084",
+                    "username": "买球就靠蒙",
+                    "is_zhuanti": "0",
+                    "level": "24",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "18",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347285",
+                    "status": "1",
+                    "race_time": "1500507020",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": "6",
+                    "guest_pm": "10",
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "327",
+                        "name": "芬兰甲级联赛",
+                        "country_id": "61",
+                        "short_name": "芬甲",
+                        "standard_name": "芬兰甲级联赛",
+                        "sb_name": "芬兰甲级联赛"
+                    },
+                    "host": {
+                        "id": "4595",
+                        "name": "夏卡",
+                        "standard_name": "夏卡",
+                        "sb_name": "哈卡"
+                    },
+                    "guest": {
+                        "id": "1766",
+                        "name": "IF 吉尼斯坦",
+                        "standard_name": "IF 吉尼斯坦",
+                        "sb_name": "格尼斯坦"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3866900",
+                "type": "daxiao",
+                "pankou": "3.0",
+                "peilv": "1.950",
+                "yazhu": "gt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "10",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500504716",
+                "reason": "",
+                "all_peilv": "1.950|1.900",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/549f9f0dc4f0e1362672fa71fcd81074.jpg",
+                    "user_id": "160332",
+                    "username": "大牛比较懒",
+                    "is_zhuanti": "0",
+                    "level": "9",
+                    "bangdan_type": "zhuanjia_week_yinglilv",
+                    "bangdan_order": "20",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347283",
+                    "status": "1",
+                    "race_time": "1500507168",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": "4",
+                    "guest_pm": "5",
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "327",
+                        "name": "芬兰甲级联赛",
+                        "country_id": "61",
+                        "short_name": "芬甲",
+                        "standard_name": "芬兰甲级联赛",
+                        "sb_name": "芬兰甲级联赛"
+                    },
+                    "host": {
+                        "id": "2095",
+                        "name": "AC奥卢",
+                        "standard_name": "AC奥卢",
+                        "sb_name": "AC奥卢"
+                    },
+                    "guest": {
+                        "id": "3208",
+                        "name": "OPS-JP",
+                        "standard_name": "OPS-JP",
+                        "sb_name": "ops奥鲁"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3862209",
+                "type": "rangfen",
+                "pankou": "+0.5",
+                "peilv": "1.875",
+                "yazhu": "gt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "50",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500475592",
+                "reason": "2-1,1-1",
+                "all_peilv": "1.875|1.975",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "1",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/41ba280abf583cefaa4d9e39d5db8066.jpg",
+                    "user_id": "100958",
+                    "username": "伊布足球",
+                    "is_zhuanti": "0",
+                    "level": "29",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "14",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346995",
+                    "status": "1",
+                    "race_time": "1500508663",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "6348",
+                        "name": "杜德兰格",
+                        "standard_name": "杜德兰格",
+                        "sb_name": "迪德朗日"
+                    },
+                    "guest": {
+                        "id": "4219",
+                        "name": "阿普尔尼科西亚",
+                        "standard_name": "阿普尔尼科西亚",
+                        "sb_name": "希腊人竞技"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3862264",
+                "type": "rangfen",
+                "pankou": "+0.5",
+                "peilv": "1.875",
+                "yazhu": "gt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "0",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500478146",
+                "reason": "",
+                "all_peilv": "1.875|1.975",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/780d24fca73aefc6049c4f86cc5bf0d6.jpg",
+                    "user_id": "33421",
+                    "username": "吴下阿蒙",
+                    "is_zhuanti": "0",
+                    "level": "19",
+                    "bangdan_type": "zhuanjia_week_yinglilv",
+                    "bangdan_order": "26",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346995",
+                    "status": "1",
+                    "race_time": "1500508663",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "6348",
+                        "name": "杜德兰格",
+                        "standard_name": "杜德兰格",
+                        "sb_name": "迪德朗日"
+                    },
+                    "guest": {
+                        "id": "4219",
+                        "name": "阿普尔尼科西亚",
+                        "standard_name": "阿普尔尼科西亚",
+                        "sb_name": "希腊人竞技"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 1
+            },
+            {
+                "id": "3865156",
+                "type": "rangfen",
+                "pankou": "+0.5",
+                "peilv": "2.000",
+                "yazhu": "lt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "50",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500495683",
+                "reason": "",
+                "all_peilv": "1.850|2.000",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "1",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/5cd99a0f9ce9214d5493eb7c97ea6881.jpg",
+                    "user_id": "106039",
+                    "username": "澳门菠菜杀手丶",
+                    "is_zhuanti": "0",
+                    "level": "21",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "46",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346995",
+                    "status": "1",
+                    "race_time": "1500508663",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "6348",
+                        "name": "杜德兰格",
+                        "standard_name": "杜德兰格",
+                        "sb_name": "迪德朗日"
+                    },
+                    "guest": {
+                        "id": "4219",
+                        "name": "阿普尔尼科西亚",
+                        "standard_name": "阿普尔尼科西亚",
+                        "sb_name": "希腊人竞技"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3865871",
+                "type": "daxiao",
+                "pankou": "2.0,2.5",
+                "peilv": "1.875",
+                "yazhu": "lt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "10",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500499663",
+                "reason": "",
+                "all_peilv": "1.975|1.875",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "1",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/9a6bc356574285c92111f38fee873d8c.jpg",
+                    "user_id": "105727",
+                    "username": "初滚足篮",
+                    "is_zhuanti": "0",
+                    "level": "5",
+                    "bangdan_type": "zhuanjia_quarter_yinglilv",
+                    "bangdan_order": "2",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346995",
+                    "status": "1",
+                    "race_time": "1500508663",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "6348",
+                        "name": "杜德兰格",
+                        "standard_name": "杜德兰格",
+                        "sb_name": "迪德朗日"
+                    },
+                    "guest": {
+                        "id": "4219",
+                        "name": "阿普尔尼科西亚",
+                        "standard_name": "阿普尔尼科西亚",
+                        "sb_name": "希腊人竞技"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3866965",
+                "type": "daxiao",
+                "pankou": "2.0,2.5",
+                "peilv": "1.850",
+                "yazhu": "lt",
+                "yazhu_coin": "188",
+                "shoufei_coin": "100",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500505009",
+                "reason": "",
+                "all_peilv": "2.000|1.850",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/549f9f0dc4f0e1362672fa71fcd81074.jpg",
+                    "user_id": "160332",
+                    "username": "大牛比较懒",
+                    "is_zhuanti": "0",
+                    "level": "9",
+                    "bangdan_type": "zhuanjia_week_yinglilv",
+                    "bangdan_order": "20",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346995",
+                    "status": "1",
+                    "race_time": "1500508663",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "6348",
+                        "name": "杜德兰格",
+                        "standard_name": "杜德兰格",
+                        "sb_name": "迪德朗日"
+                    },
+                    "guest": {
+                        "id": "4219",
+                        "name": "阿普尔尼科西亚",
+                        "standard_name": "阿普尔尼科西亚",
+                        "sb_name": "希腊人竞技"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867159",
+                "type": "daxiao",
+                "pankou": "2.0,2.5",
+                "peilv": "2.000",
+                "yazhu": "gt",
+                "yazhu_coin": "6666",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500505866",
+                "reason": "",
+                "all_peilv": "2.000|1.850",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/c031f557cb069e97325aff6d85d5f7e9.jpg",
+                    "user_id": "61399",
+                    "username": "涅槃使者",
+                    "is_zhuanti": "0",
+                    "level": "30",
+                    "bangdan_type": "zhuanjia_quarter_yinglilv",
+                    "bangdan_order": "34",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346995",
+                    "status": "1",
+                    "race_time": "1500508663",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "6348",
+                        "name": "杜德兰格",
+                        "standard_name": "杜德兰格",
+                        "sb_name": "迪德朗日"
+                    },
+                    "guest": {
+                        "id": "4219",
+                        "name": "阿普尔尼科西亚",
+                        "standard_name": "阿普尔尼科西亚",
+                        "sb_name": "希腊人竞技"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867332",
+                "type": "rangfen",
+                "pankou": "+0.5",
+                "peilv": "1.775",
+                "yazhu": "lt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500506667",
+                "reason": "",
+                "all_peilv": "2.100|1.775",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/7198c290961e68f42c4e7d61f306cb9e.jpg",
+                    "user_id": "151418",
+                    "username": "攻心",
+                    "is_zhuanti": "0",
+                    "level": "12",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "6",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346995",
+                    "status": "1",
+                    "race_time": "1500508663",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "6348",
+                        "name": "杜德兰格",
+                        "standard_name": "杜德兰格",
+                        "sb_name": "迪德朗日"
+                    },
+                    "guest": {
+                        "id": "4219",
+                        "name": "阿普尔尼科西亚",
+                        "standard_name": "阿普尔尼科西亚",
+                        "sb_name": "希腊人竞技"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867512",
+                "type": "rangfen",
+                "pankou": "+0.5",
+                "peilv": "1.775",
+                "yazhu": "lt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "10",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500507448",
+                "reason": "",
+                "all_peilv": "2.100|1.775",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/94d4c2e001d0ced2f4bfbf04734dd1f5.jpg",
+                    "user_id": "162553",
+                    "username": "微博名叫走地自律",
+                    "is_zhuanti": "0",
+                    "level": "5",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "1",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346995",
+                    "status": "1",
+                    "race_time": "1500508663",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "6348",
+                        "name": "杜德兰格",
+                        "standard_name": "杜德兰格",
+                        "sb_name": "迪德朗日"
+                    },
+                    "guest": {
+                        "id": "4219",
+                        "name": "阿普尔尼科西亚",
+                        "standard_name": "阿普尔尼科西亚",
+                        "sb_name": "希腊人竞技"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867628",
+                "type": "rangfen",
+                "pankou": "+0.5,+1.0",
+                "peilv": "1.925",
+                "yazhu": "lt",
+                "yazhu_coin": "2000",
+                "shoufei_coin": "10",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500508185",
+                "reason": "",
+                "all_peilv": "1.875|1.925",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/f20ea8343efd71695368375ca295f94d.jpg",
+                    "user_id": "99916",
+                    "username": "看盤達人",
+                    "is_zhuanti": "0",
+                    "level": "12",
+                    "bangdan_type": "zhuanjia_quarter_yinglilv",
+                    "bangdan_order": "19",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346995",
+                    "status": "1",
+                    "race_time": "1500508663",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "6348",
+                        "name": "杜德兰格",
+                        "standard_name": "杜德兰格",
+                        "sb_name": "迪德朗日"
+                    },
+                    "guest": {
+                        "id": "4219",
+                        "name": "阿普尔尼科西亚",
+                        "standard_name": "阿普尔尼科西亚",
+                        "sb_name": "希腊人竞技"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3866153",
+                "type": "daxiao",
+                "pankou": "2.0,2.5",
+                "peilv": "1.900",
+                "yazhu": "gt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500501108",
+                "reason": "",
+                "all_peilv": "1.900|1.900",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/176699c00e5861203e3872faa8fc5961.jpg",
+                    "user_id": "48084",
+                    "username": "买球就靠蒙",
+                    "is_zhuanti": "0",
+                    "level": "24",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "18",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347533",
+                    "status": "1",
+                    "race_time": "1500508842",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "183",
+                        "name": "欧洲友谊赛",
+                        "country_id": "4",
+                        "short_name": "欧洲友谊",
+                        "standard_name": "欧洲友谊赛",
+                        "sb_name": "欧洲友谊赛"
+                    },
+                    "host": {
+                        "id": "5957",
+                        "name": "卡昂",
+                        "standard_name": "卡昂",
+                        "sb_name": "卡昂"
+                    },
+                    "guest": {
+                        "id": "1065",
+                        "name": "洛里昂",
+                        "standard_name": "洛里昂",
+                        "sb_name": "洛里昂"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3866167",
+                "type": "daxiao",
+                "pankou": "2.5,3.0",
+                "peilv": "1.825",
+                "yazhu": "gt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500501172",
+                "reason": "",
+                "all_peilv": "1.825|1.975",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/176699c00e5861203e3872faa8fc5961.jpg",
+                    "user_id": "48084",
+                    "username": "买球就靠蒙",
+                    "is_zhuanti": "0",
+                    "level": "24",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "18",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347610",
+                    "status": "1",
+                    "race_time": "1500508842",
+                    "focus": "1",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "258",
+                        "name": "世界俱乐部友谊赛",
+                        "country_id": "4",
+                        "short_name": "世俱友谊",
+                        "standard_name": "世界俱乐部友谊赛",
+                        "sb_name": "世界俱乐部友谊赛"
+                    },
+                    "host": {
+                        "id": "6513",
+                        "name": "乌迪内斯",
+                        "standard_name": "乌迪内斯",
+                        "sb_name": "乌迪内斯"
+                    },
+                    "guest": {
+                        "id": "923",
+                        "name": "阿赫利",
+                        "standard_name": "阿赫利",
+                        "sb_name": "吉达阿赫利"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3866259",
+                "type": "daxiao",
+                "pankou": "3.0,3.5",
+                "peilv": "1.925",
+                "yazhu": "gt",
+                "yazhu_coin": "500",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500501622",
+                "reason": "",
+                "all_peilv": "1.925|1.875",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "1",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/fadaf30e6e194ec75b74d1f9355a5a45.jpg",
+                    "user_id": "84471",
+                    "username": "亚盘killer",
+                    "is_zhuanti": "0",
+                    "level": "13",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "21",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "342023",
+                    "status": "1",
+                    "race_time": "1500508872",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "2290",
+                        "name": "欧洲锦标赛 - 女子",
+                        "country_id": "4",
+                        "short_name": "欧女锦",
+                        "standard_name": "欧洲锦标赛 - 女子",
+                        "sb_name": "欧洲锦标赛 - 女子"
+                    },
+                    "host": {
+                        "id": "8753",
+                        "name": "西班牙 女子",
+                        "standard_name": "西班牙 女子",
+                        "sb_name": "西班牙 女子"
+                    },
+                    "guest": {
+                        "id": "5017",
+                        "name": "葡萄牙 女子",
+                        "standard_name": "葡萄牙 女子",
+                        "sb_name": "葡萄牙 女子"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3866266",
+                "type": "rangfen",
+                "pankou": "-2.5",
+                "peilv": "1.900",
+                "yazhu": "gt",
+                "yazhu_coin": "500",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500501635",
+                "reason": "",
+                "all_peilv": "1.900|1.900",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "1",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/fadaf30e6e194ec75b74d1f9355a5a45.jpg",
+                    "user_id": "84471",
+                    "username": "亚盘killer",
+                    "is_zhuanti": "0",
+                    "level": "13",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "21",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "342023",
+                    "status": "1",
+                    "race_time": "1500508872",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "2290",
+                        "name": "欧洲锦标赛 - 女子",
+                        "country_id": "4",
+                        "short_name": "欧女锦",
+                        "standard_name": "欧洲锦标赛 - 女子",
+                        "sb_name": "欧洲锦标赛 - 女子"
+                    },
+                    "host": {
+                        "id": "8753",
+                        "name": "西班牙 女子",
+                        "standard_name": "西班牙 女子",
+                        "sb_name": "西班牙 女子"
+                    },
+                    "guest": {
+                        "id": "5017",
+                        "name": "葡萄牙 女子",
+                        "standard_name": "葡萄牙 女子",
+                        "sb_name": "葡萄牙 女子"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867042",
+                "type": "rangfen",
+                "pankou": "-2.5",
+                "peilv": "1.900",
+                "yazhu": "gt",
+                "yazhu_coin": "300",
+                "shoufei_coin": "50",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500505378",
+                "reason": "",
+                "all_peilv": "1.900|1.900",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/7dc63db29e91cecf24fe5a376c64df4f.jpg",
+                    "user_id": "27144",
+                    "username": "jjm524",
+                    "is_zhuanti": "0",
+                    "level": "23",
+                    "bangdan_type": "zhuanjia_quarter_yinglilv",
+                    "bangdan_order": "27",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "342023",
+                    "status": "1",
+                    "race_time": "1500508872",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "2290",
+                        "name": "欧洲锦标赛 - 女子",
+                        "country_id": "4",
+                        "short_name": "欧女锦",
+                        "standard_name": "欧洲锦标赛 - 女子",
+                        "sb_name": "欧洲锦标赛 - 女子"
+                    },
+                    "host": {
+                        "id": "8753",
+                        "name": "西班牙 女子",
+                        "standard_name": "西班牙 女子",
+                        "sb_name": "西班牙 女子"
+                    },
+                    "guest": {
+                        "id": "5017",
+                        "name": "葡萄牙 女子",
+                        "standard_name": "葡萄牙 女子",
+                        "sb_name": "葡萄牙 女子"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867045",
+                "type": "daxiao",
+                "pankou": "3.0,3.5",
+                "peilv": "1.925",
+                "yazhu": "gt",
+                "yazhu_coin": "300",
+                "shoufei_coin": "50",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500505389",
+                "reason": "",
+                "all_peilv": "1.925|1.875",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/7dc63db29e91cecf24fe5a376c64df4f.jpg",
+                    "user_id": "27144",
+                    "username": "jjm524",
+                    "is_zhuanti": "0",
+                    "level": "23",
+                    "bangdan_type": "zhuanjia_quarter_yinglilv",
+                    "bangdan_order": "27",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "342023",
+                    "status": "1",
+                    "race_time": "1500508872",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "2290",
+                        "name": "欧洲锦标赛 - 女子",
+                        "country_id": "4",
+                        "short_name": "欧女锦",
+                        "standard_name": "欧洲锦标赛 - 女子",
+                        "sb_name": "欧洲锦标赛 - 女子"
+                    },
+                    "host": {
+                        "id": "8753",
+                        "name": "西班牙 女子",
+                        "standard_name": "西班牙 女子",
+                        "sb_name": "西班牙 女子"
+                    },
+                    "guest": {
+                        "id": "5017",
+                        "name": "葡萄牙 女子",
+                        "standard_name": "葡萄牙 女子",
+                        "sb_name": "葡萄牙 女子"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3866161",
+                "type": "half_daxiao",
+                "pankou": "1.0",
+                "peilv": "2.075",
+                "yazhu": "gt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500501149",
+                "reason": "",
+                "all_peilv": "2.075|1.725",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/176699c00e5861203e3872faa8fc5961.jpg",
+                    "user_id": "48084",
+                    "username": "买球就靠蒙",
+                    "is_zhuanti": "0",
+                    "level": "24",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "18",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347666",
+                    "status": "1",
+                    "race_time": "1500508928",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "199",
+                        "name": "俄罗斯乙级联赛",
+                        "country_id": "12",
+                        "short_name": "俄乙",
+                        "standard_name": "俄罗斯乙级联赛",
+                        "sb_name": "俄罗斯乙级联赛"
+                    },
+                    "host": {
+                        "id": "21203",
+                        "name": "比尔哥德",
+                        "standard_name": "比尔哥德",
+                        "sb_name": "比尔哥德"
+                    },
+                    "guest": {
+                        "id": "1273",
+                        "name": "莫斯科鱼雷",
+                        "standard_name": "莫斯科鱼雷",
+                        "sb_name": "莫斯科鱼雷"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3866162",
+                "type": "daxiao",
+                "pankou": "2.0,2.5",
+                "peilv": "1.850",
+                "yazhu": "gt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500501154",
+                "reason": "",
+                "all_peilv": "1.850|1.950",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/176699c00e5861203e3872faa8fc5961.jpg",
+                    "user_id": "48084",
+                    "username": "买球就靠蒙",
+                    "is_zhuanti": "0",
+                    "level": "24",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "18",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347666",
+                    "status": "1",
+                    "race_time": "1500508928",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "1",
+                    "league": {
+                        "id": "199",
+                        "name": "俄罗斯乙级联赛",
+                        "country_id": "12",
+                        "short_name": "俄乙",
+                        "standard_name": "俄罗斯乙级联赛",
+                        "sb_name": "俄罗斯乙级联赛"
+                    },
+                    "host": {
+                        "id": "21203",
+                        "name": "比尔哥德",
+                        "standard_name": "比尔哥德",
+                        "sb_name": "比尔哥德"
+                    },
+                    "guest": {
+                        "id": "1273",
+                        "name": "莫斯科鱼雷",
+                        "standard_name": "莫斯科鱼雷",
+                        "sb_name": "莫斯科鱼雷"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3866160",
+                "type": "daxiao",
+                "pankou": "2.5,3.0",
+                "peilv": "1.775",
+                "yazhu": "gt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500501141",
+                "reason": "",
+                "all_peilv": "1.775|2.025",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/176699c00e5861203e3872faa8fc5961.jpg",
+                    "user_id": "48084",
+                    "username": "买球就靠蒙",
+                    "is_zhuanti": "0",
+                    "level": "24",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "18",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347631",
+                    "status": "1",
+                    "race_time": "1500510600",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "183",
+                        "name": "欧洲友谊赛",
+                        "country_id": "4",
+                        "short_name": "欧洲友谊",
+                        "standard_name": "欧洲友谊赛",
+                        "sb_name": "欧洲友谊赛"
+                    },
+                    "host": {
+                        "id": "2404",
+                        "name": "汉诺威II",
+                        "standard_name": "汉诺威II",
+                        "sb_name": "汉诺威业余队"
+                    },
+                    "guest": {
+                        "id": "3959",
+                        "name": "罗迪豪森",
+                        "standard_name": "罗迪豪森",
+                        "sb_name": "罗迪豪森"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3866168",
+                "type": "daxiao",
+                "pankou": "3.0,3.5",
+                "peilv": "2.075",
+                "yazhu": "gt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500501202",
+                "reason": "",
+                "all_peilv": "2.075|1.725",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/176699c00e5861203e3872faa8fc5961.jpg",
+                    "user_id": "48084",
+                    "username": "买球就靠蒙",
+                    "is_zhuanti": "0",
+                    "level": "24",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "18",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347607",
+                    "status": "1",
+                    "race_time": "1500512400",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "183",
+                        "name": "欧洲友谊赛",
+                        "country_id": "4",
+                        "short_name": "欧洲友谊",
+                        "standard_name": "欧洲友谊赛",
+                        "sb_name": "欧洲友谊赛"
+                    },
+                    "host": {
+                        "id": "6053",
+                        "name": "威廉二世",
+                        "standard_name": "威廉二世",
+                        "sb_name": "威廉二世"
+                    },
+                    "guest": {
+                        "id": "5611",
+                        "name": "FC埃因霍温",
+                        "standard_name": "FC埃因霍温",
+                        "sb_name": "FC埃因霍温"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3866171",
+                "type": "half_daxiao",
+                "pankou": "1.0,1.5",
+                "peilv": "2.025",
+                "yazhu": "gt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500501225",
+                "reason": "",
+                "all_peilv": "2.025|1.775",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/176699c00e5861203e3872faa8fc5961.jpg",
+                    "user_id": "48084",
+                    "username": "买球就靠蒙",
+                    "is_zhuanti": "0",
+                    "level": "24",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "18",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347603",
+                    "status": "1",
+                    "race_time": "1500512400",
+                    "focus": "1",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "1697",
+                        "name": "精英友谊赛",
+                        "country_id": "4",
+                        "short_name": "精英友谊",
+                        "standard_name": "精英友谊赛",
+                        "sb_name": "精英友谊赛"
+                    },
+                    "host": {
+                        "id": "1055",
+                        "name": "摩纳哥",
+                        "standard_name": "摩纳哥",
+                        "sb_name": "摩纳哥"
+                    },
+                    "guest": {
+                        "id": "7018",
+                        "name": "费内巴切",
+                        "standard_name": "费内巴切",
+                        "sb_name": "费内巴切"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867051",
+                "type": "daxiao",
+                "pankou": "2.5,3.0",
+                "peilv": "2.025",
+                "yazhu": "gt",
+                "yazhu_coin": "300",
+                "shoufei_coin": "50",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500505409",
+                "reason": "",
+                "all_peilv": "2.025|1.825",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/7dc63db29e91cecf24fe5a376c64df4f.jpg",
+                    "user_id": "27144",
+                    "username": "jjm524",
+                    "is_zhuanti": "0",
+                    "level": "23",
+                    "bangdan_type": "zhuanjia_quarter_yinglilv",
+                    "bangdan_order": "27",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346996",
+                    "status": "1",
+                    "race_time": "1500513300",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "2482",
+                        "name": "罗森博格",
+                        "standard_name": "罗森博格",
+                        "sb_name": "罗森博格"
+                    },
+                    "guest": {
+                        "id": "1386",
+                        "name": "唐道克",
+                        "standard_name": "唐道克",
+                        "sb_name": "登克尔克"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867125",
+                "type": "daxiao",
+                "pankou": "2.5,3.0",
+                "peilv": "2.025",
+                "yazhu": "gt",
+                "yazhu_coin": "5000",
+                "shoufei_coin": "100",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500505620",
+                "reason": "",
+                "all_peilv": "2.025|1.825",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/f2d379b918dcda9d7e2286918e7f7e59.jpg",
+                    "user_id": "100309",
+                    "username": "tsaryang",
+                    "is_zhuanti": "0",
+                    "level": "25",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "8",
+                    "bangdan_is_inplay": 1
+                },
+                "race": {
+                    "id": "346996",
+                    "status": "1",
+                    "race_time": "1500513300",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "2482",
+                        "name": "罗森博格",
+                        "standard_name": "罗森博格",
+                        "sb_name": "罗森博格"
+                    },
+                    "guest": {
+                        "id": "1386",
+                        "name": "唐道克",
+                        "standard_name": "唐道克",
+                        "sb_name": "登克尔克"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867334",
+                "type": "rangfen",
+                "pankou": "-1.0",
+                "peilv": "1.875",
+                "yazhu": "gt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500506677",
+                "reason": "",
+                "all_peilv": "1.875|1.975",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/7198c290961e68f42c4e7d61f306cb9e.jpg",
+                    "user_id": "151418",
+                    "username": "攻心",
+                    "is_zhuanti": "0",
+                    "level": "12",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "6",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346996",
+                    "status": "1",
+                    "race_time": "1500513300",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "2482",
+                        "name": "罗森博格",
+                        "standard_name": "罗森博格",
+                        "sb_name": "罗森博格"
+                    },
+                    "guest": {
+                        "id": "1386",
+                        "name": "唐道克",
+                        "standard_name": "唐道克",
+                        "sb_name": "登克尔克"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867350",
+                "type": "daxiao",
+                "pankou": "2.5,3.0",
+                "peilv": "2.025",
+                "yazhu": "gt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "10",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500506718",
+                "reason": "",
+                "all_peilv": "2.025|1.825",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/549f9f0dc4f0e1362672fa71fcd81074.jpg",
+                    "user_id": "160332",
+                    "username": "大牛比较懒",
+                    "is_zhuanti": "0",
+                    "level": "9",
+                    "bangdan_type": "zhuanjia_week_yinglilv",
+                    "bangdan_order": "20",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346996",
+                    "status": "1",
+                    "race_time": "1500513300",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "2482",
+                        "name": "罗森博格",
+                        "standard_name": "罗森博格",
+                        "sb_name": "罗森博格"
+                    },
+                    "guest": {
+                        "id": "1386",
+                        "name": "唐道克",
+                        "standard_name": "唐道克",
+                        "sb_name": "登克尔克"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3866172",
+                "type": "half_daxiao",
+                "pankou": "1.0,1.5",
+                "peilv": "1.950",
+                "yazhu": "gt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500501235",
+                "reason": "",
+                "all_peilv": "1.950|1.850",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/176699c00e5861203e3872faa8fc5961.jpg",
+                    "user_id": "48084",
+                    "username": "买球就靠蒙",
+                    "is_zhuanti": "0",
+                    "level": "24",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "18",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346997",
+                    "status": "1",
+                    "race_time": "1500514200",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "5646",
+                        "name": "FC哥本哈根",
+                        "standard_name": "FC哥本哈根",
+                        "sb_name": "哥本哈根"
+                    },
+                    "guest": {
+                        "id": "5146",
+                        "name": "斯利纳",
+                        "standard_name": "斯利纳",
+                        "sb_name": "斯利纳"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            }
+        ],
+        "users": [
+            {
+                "photo_url": "https://s.besget.com/profile/200/780d24fca73aefc6049c4f86cc5bf0d6.jpg",
+                "user_id": "33421",
+                "username": "吴下阿蒙",
+                "is_zhuanti": "0",
+                "level": "19",
+                "is_vip": 0
+            },
+            {
+                "photo_url": "https://s.besget.com/profile/200/dec7d2cb76df11195533d287ca71fe4e.jpg",
+                "user_id": "161266",
+                "username": "霏霏不肥",
+                "is_zhuanti": "0",
+                "level": "7",
+                "is_vip": 0
+            },
+            {
+                "photo_url": "https://s.besget.com/profile/200/9a6bc356574285c92111f38fee873d8c.jpg",
+                "user_id": "105727",
+                "username": "初滚足篮",
+                "is_zhuanti": "0",
+                "level": "5",
+                "is_vip": 0
+            },
+            {
+                "photo_url": "https://s.besget.com/profile/200/3d7e4adc0badb8b48178cc7c2cd07c44.jpg",
+                "user_id": "91011",
+                "username": "必发猫哥",
+                "is_zhuanti": "0",
+                "level": "22",
+                "is_vip": 0
+            },
+            {
+                "photo_url": "https://s.besget.com/profile/200/fadaf30e6e194ec75b74d1f9355a5a45.jpg",
+                "user_id": "84471",
+                "username": "亚盘killer",
+                "is_zhuanti": "0",
+                "level": "13",
+                "is_vip": 0
+            },
+            {
+                "photo_url": "https://s.besget.com/profile/200/3a26d598956c9ffac481450a29c92dd9.jpg",
+                "user_id": "113290",
+                "username": "诺坎普之王Messi",
+                "is_zhuanti": "0",
+                "level": "16",
+                "is_vip": 0
+            },
+            {
+                "photo_url": "https://s.besget.com/profile/200/cc9ecd1dfaff7f6b42879eb0cca23309.jpg",
+                "user_id": "166723",
+                "username": "三师弟",
+                "is_zhuanti": "0",
+                "level": "4",
+                "is_vip": 0
+            }
+        ],
+        "status": 200,
+        "result": "success"
+    },
+    {
+        "total": 55,
+        "page": 2,
+        "per_page": 30,
+        "jingcai": [
+            {
+                "id": "3867053",
+                "type": "daxiao",
+                "pankou": "3.0",
+                "peilv": "1.875",
+                "yazhu": "gt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "10",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500505426",
+                "reason": "",
+                "all_peilv": "1.875|1.975",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/549f9f0dc4f0e1362672fa71fcd81074.jpg",
+                    "user_id": "160332",
+                    "username": "大牛比较懒",
+                    "is_zhuanti": "0",
+                    "level": "9",
+                    "bangdan_type": "zhuanjia_week_yinglilv",
+                    "bangdan_order": "20",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346997",
+                    "status": "1",
+                    "race_time": "1500514200",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "5646",
+                        "name": "FC哥本哈根",
+                        "standard_name": "FC哥本哈根",
+                        "sb_name": "哥本哈根"
+                    },
+                    "guest": {
+                        "id": "5146",
+                        "name": "斯利纳",
+                        "standard_name": "斯利纳",
+                        "sb_name": "斯利纳"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867059",
+                "type": "daxiao",
+                "pankou": "3.0",
+                "peilv": "1.875",
+                "yazhu": "gt",
+                "yazhu_coin": "300",
+                "shoufei_coin": "50",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500505440",
+                "reason": "",
+                "all_peilv": "1.875|1.975",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/7dc63db29e91cecf24fe5a376c64df4f.jpg",
+                    "user_id": "27144",
+                    "username": "jjm524",
+                    "is_zhuanti": "0",
+                    "level": "23",
+                    "bangdan_type": "zhuanjia_quarter_yinglilv",
+                    "bangdan_order": "27",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346997",
+                    "status": "1",
+                    "race_time": "1500514200",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "5646",
+                        "name": "FC哥本哈根",
+                        "standard_name": "FC哥本哈根",
+                        "sb_name": "哥本哈根"
+                    },
+                    "guest": {
+                        "id": "5146",
+                        "name": "斯利纳",
+                        "standard_name": "斯利纳",
+                        "sb_name": "斯利纳"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867336",
+                "type": "rangfen",
+                "pankou": "-1.0,-1.5",
+                "peilv": "2.050",
+                "yazhu": "lt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500506686",
+                "reason": "",
+                "all_peilv": "1.800|2.050",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/7198c290961e68f42c4e7d61f306cb9e.jpg",
+                    "user_id": "151418",
+                    "username": "攻心",
+                    "is_zhuanti": "0",
+                    "level": "12",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "6",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346997",
+                    "status": "1",
+                    "race_time": "1500514200",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "5646",
+                        "name": "FC哥本哈根",
+                        "standard_name": "FC哥本哈根",
+                        "sb_name": "哥本哈根"
+                    },
+                    "guest": {
+                        "id": "5146",
+                        "name": "斯利纳",
+                        "standard_name": "斯利纳",
+                        "sb_name": "斯利纳"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867093",
+                "type": "half_daxiao",
+                "pankou": "1.5",
+                "peilv": "1.825",
+                "yazhu": "gt",
+                "yazhu_coin": "300",
+                "shoufei_coin": "50",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500505525",
+                "reason": "",
+                "all_peilv": "1.825|1.975",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/7dc63db29e91cecf24fe5a376c64df4f.jpg",
+                    "user_id": "27144",
+                    "username": "jjm524",
+                    "is_zhuanti": "0",
+                    "level": "23",
+                    "bangdan_type": "zhuanjia_quarter_yinglilv",
+                    "bangdan_order": "27",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347001",
+                    "status": "1",
+                    "race_time": "1500517800",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "1193",
+                        "name": "FC 萨尔斯堡",
+                        "standard_name": "FC 萨尔斯堡",
+                        "sb_name": "萨尔茨堡"
+                    },
+                    "guest": {
+                        "id": "5196",
+                        "name": "希伯尼恩斯",
+                        "standard_name": "希伯尼恩斯",
+                        "sb_name": "希伯尼安斯"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867340",
+                "type": "rangfen",
+                "pankou": "-2.5,-3.0",
+                "peilv": "1.775",
+                "yazhu": "gt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500506692",
+                "reason": "",
+                "all_peilv": "1.775|2.100",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/7198c290961e68f42c4e7d61f306cb9e.jpg",
+                    "user_id": "151418",
+                    "username": "攻心",
+                    "is_zhuanti": "0",
+                    "level": "12",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "6",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347001",
+                    "status": "1",
+                    "race_time": "1500517800",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "1193",
+                        "name": "FC 萨尔斯堡",
+                        "standard_name": "FC 萨尔斯堡",
+                        "sb_name": "萨尔茨堡"
+                    },
+                    "guest": {
+                        "id": "5196",
+                        "name": "希伯尼恩斯",
+                        "standard_name": "希伯尼恩斯",
+                        "sb_name": "希伯尼安斯"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867052",
+                "type": "rangfen",
+                "pankou": "-1.5,-2.0",
+                "peilv": "1.975",
+                "yazhu": "gt",
+                "yazhu_coin": "300",
+                "shoufei_coin": "50",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500505424",
+                "reason": "",
+                "all_peilv": "1.975|1.825",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/7dc63db29e91cecf24fe5a376c64df4f.jpg",
+                    "user_id": "27144",
+                    "username": "jjm524",
+                    "is_zhuanti": "0",
+                    "level": "23",
+                    "bangdan_type": "zhuanjia_quarter_yinglilv",
+                    "bangdan_order": "27",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "342024",
+                    "status": "1",
+                    "race_time": "1500518700",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "2290",
+                        "name": "欧洲锦标赛 - 女子",
+                        "country_id": "4",
+                        "short_name": "欧女锦",
+                        "standard_name": "欧洲锦标赛 - 女子",
+                        "sb_name": "欧洲锦标赛 - 女子"
+                    },
+                    "host": {
+                        "id": "4994",
+                        "name": "英格兰 女子",
+                        "standard_name": "英格兰 女子",
+                        "sb_name": "英格兰女足"
+                    },
+                    "guest": {
+                        "id": "5014",
+                        "name": "苏格兰 女子",
+                        "standard_name": "苏格兰 女子",
+                        "sb_name": "苏格兰 女子"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867096",
+                "type": "daxiao",
+                "pankou": "2.5",
+                "peilv": "1.750",
+                "yazhu": "gt",
+                "yazhu_coin": "300",
+                "shoufei_coin": "50",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500505540",
+                "reason": "",
+                "all_peilv": "1.750|2.050",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/7dc63db29e91cecf24fe5a376c64df4f.jpg",
+                    "user_id": "27144",
+                    "username": "jjm524",
+                    "is_zhuanti": "0",
+                    "level": "23",
+                    "bangdan_type": "zhuanjia_quarter_yinglilv",
+                    "bangdan_order": "27",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "342024",
+                    "status": "1",
+                    "race_time": "1500518700",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "2290",
+                        "name": "欧洲锦标赛 - 女子",
+                        "country_id": "4",
+                        "short_name": "欧女锦",
+                        "standard_name": "欧洲锦标赛 - 女子",
+                        "sb_name": "欧洲锦标赛 - 女子"
+                    },
+                    "host": {
+                        "id": "4994",
+                        "name": "英格兰 女子",
+                        "standard_name": "英格兰 女子",
+                        "sb_name": "英格兰女足"
+                    },
+                    "guest": {
+                        "id": "5014",
+                        "name": "苏格兰 女子",
+                        "standard_name": "苏格兰 女子",
+                        "sb_name": "苏格兰 女子"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867107",
+                "type": "daxiao",
+                "pankou": "4.0",
+                "peilv": "2.200",
+                "yazhu": "lt",
+                "yazhu_coin": "1000",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500505564",
+                "reason": "",
+                "all_peilv": "1.700|2.200",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/f2d379b918dcda9d7e2286918e7f7e59.jpg",
+                    "user_id": "100309",
+                    "username": "tsaryang",
+                    "is_zhuanti": "0",
+                    "level": "25",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "8",
+                    "bangdan_is_inplay": 1
+                },
+                "race": {
+                    "id": "347002",
+                    "status": "1",
+                    "race_time": "1500518700",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "5682",
+                        "name": "凯尔特人",
+                        "standard_name": "凯尔特人",
+                        "sb_name": "凯尔特人"
+                    },
+                    "guest": {
+                        "id": "5344",
+                        "name": "林菲尔德",
+                        "standard_name": "林菲尔德",
+                        "sb_name": "林菲尔德"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867108",
+                "type": "half_rangfen",
+                "pankou": "-1.5",
+                "peilv": "1.900",
+                "yazhu": "lt",
+                "yazhu_coin": "400",
+                "shoufei_coin": "50",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500505568",
+                "reason": "",
+                "all_peilv": "1.900|1.900",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/7dc63db29e91cecf24fe5a376c64df4f.jpg",
+                    "user_id": "27144",
+                    "username": "jjm524",
+                    "is_zhuanti": "0",
+                    "level": "23",
+                    "bangdan_type": "zhuanjia_quarter_yinglilv",
+                    "bangdan_order": "27",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347002",
+                    "status": "1",
+                    "race_time": "1500518700",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "5682",
+                        "name": "凯尔特人",
+                        "standard_name": "凯尔特人",
+                        "sb_name": "凯尔特人"
+                    },
+                    "guest": {
+                        "id": "5344",
+                        "name": "林菲尔德",
+                        "standard_name": "林菲尔德",
+                        "sb_name": "林菲尔德"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867345",
+                "type": "rangfen",
+                "pankou": "-2.0,-2.5",
+                "peilv": "1.875",
+                "yazhu": "lt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500506703",
+                "reason": "",
+                "all_peilv": "1.975|1.875",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/7198c290961e68f42c4e7d61f306cb9e.jpg",
+                    "user_id": "151418",
+                    "username": "攻心",
+                    "is_zhuanti": "0",
+                    "level": "12",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "6",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347003",
+                    "status": "1",
+                    "race_time": "1500518700",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "5363",
+                        "name": "华沙莱吉亚",
+                        "standard_name": "华沙莱吉亚",
+                        "sb_name": "华沙莱吉亚"
+                    },
+                    "guest": {
+                        "id": "4814",
+                        "name": "玛丽港",
+                        "standard_name": "玛丽港",
+                        "sb_name": "玛丽港"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867115",
+                "type": "rangfen",
+                "pankou": "0.0,+0.5",
+                "peilv": "1.950",
+                "yazhu": "lt",
+                "yazhu_coin": "10000",
+                "shoufei_coin": "10",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500505589",
+                "reason": "",
+                "all_peilv": "1.900|1.950",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/f2d379b918dcda9d7e2286918e7f7e59.jpg",
+                    "user_id": "100309",
+                    "username": "tsaryang",
+                    "is_zhuanti": "0",
+                    "level": "25",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "8",
+                    "bangdan_is_inplay": 1
+                },
+                "race": {
+                    "id": "347004",
+                    "status": "1",
+                    "race_time": "1500520500",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "4088",
+                        "name": "布达佩斯汉维特",
+                        "standard_name": "布达佩斯汉维特",
+                        "sb_name": "汉维特"
+                    },
+                    "guest": {
+                        "id": "960",
+                        "name": "比尔舒华夏普尔",
+                        "standard_name": "比尔舒华夏普尔",
+                        "sb_name": "比尔舒华夏普尔"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867348",
+                "type": "win_lose",
+                "pankou": "-",
+                "peilv": "2.150",
+                "yazhu": "lt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500506713",
+                "reason": "",
+                "all_peilv": "3.500|3.200|2.150",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/7198c290961e68f42c4e7d61f306cb9e.jpg",
+                    "user_id": "151418",
+                    "username": "攻心",
+                    "is_zhuanti": "0",
+                    "level": "12",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "6",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347004",
+                    "status": "1",
+                    "race_time": "1500520500",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "582",
+                        "name": "欧洲冠军联赛预选赛",
+                        "country_id": "4",
+                        "short_name": "欧冠预赛",
+                        "standard_name": "欧洲冠军联赛预选赛",
+                        "sb_name": "欧洲冠军联赛预选赛"
+                    },
+                    "host": {
+                        "id": "4088",
+                        "name": "布达佩斯汉维特",
+                        "standard_name": "布达佩斯汉维特",
+                        "sb_name": "汉维特"
+                    },
+                    "guest": {
+                        "id": "960",
+                        "name": "比尔舒华夏普尔",
+                        "standard_name": "比尔舒华夏普尔",
+                        "sb_name": "比尔舒华夏普尔"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3862218",
+                "type": "win_lose",
+                "pankou": "-",
+                "peilv": "3.000",
+                "yazhu": "eq",
+                "yazhu_coin": "100",
+                "shoufei_coin": "50",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500476190",
+                "reason": "1-1,2-2",
+                "all_peilv": "2.250|3.000|3.500",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "1",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/41ba280abf583cefaa4d9e39d5db8066.jpg",
+                    "user_id": "100958",
+                    "username": "伊布足球",
+                    "is_zhuanti": "0",
+                    "level": "29",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "14",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347247",
+                    "status": "1",
+                    "race_time": "1500530400",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "1246",
+                        "name": "中北美及加勒比地区金杯赛",
+                        "country_id": "4",
+                        "short_name": "中北美金杯赛",
+                        "standard_name": "中北美及加勒比地区金杯赛",
+                        "sb_name": "中北美及加勒比地区金杯赛"
+                    },
+                    "host": {
+                        "id": "4376",
+                        "name": "哥斯达黎加",
+                        "standard_name": "哥斯达黎加",
+                        "sb_name": "哥斯达黎加"
+                    },
+                    "guest": {
+                        "id": "4120",
+                        "name": "巴拿马",
+                        "standard_name": "巴拿马",
+                        "sb_name": "巴拿马"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3865875",
+                "type": "rangfen",
+                "pankou": "0.0,-0.5",
+                "peilv": "1.925",
+                "yazhu": "lt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "10",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500499683",
+                "reason": "",
+                "all_peilv": "1.925|1.925",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "1",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/9a6bc356574285c92111f38fee873d8c.jpg",
+                    "user_id": "105727",
+                    "username": "初滚足篮",
+                    "is_zhuanti": "0",
+                    "level": "5",
+                    "bangdan_type": "zhuanjia_quarter_yinglilv",
+                    "bangdan_order": "2",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347247",
+                    "status": "1",
+                    "race_time": "1500530400",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "1246",
+                        "name": "中北美及加勒比地区金杯赛",
+                        "country_id": "4",
+                        "short_name": "中北美金杯赛",
+                        "standard_name": "中北美及加勒比地区金杯赛",
+                        "sb_name": "中北美及加勒比地区金杯赛"
+                    },
+                    "host": {
+                        "id": "4376",
+                        "name": "哥斯达黎加",
+                        "standard_name": "哥斯达黎加",
+                        "sb_name": "哥斯达黎加"
+                    },
+                    "guest": {
+                        "id": "4120",
+                        "name": "巴拿马",
+                        "standard_name": "巴拿马",
+                        "sb_name": "巴拿马"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3862225",
+                "type": "rangfen",
+                "pankou": "-0.5,-1.0",
+                "peilv": "1.800",
+                "yazhu": "gt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "50",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500476660",
+                "reason": "2-1,1-0",
+                "all_peilv": "1.800|2.050",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "1",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/41ba280abf583cefaa4d9e39d5db8066.jpg",
+                    "user_id": "100958",
+                    "username": "伊布足球",
+                    "is_zhuanti": "0",
+                    "level": "29",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "14",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347428",
+                    "status": "1",
+                    "race_time": "1500532200",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "251",
+                        "name": "巴西甲级联赛",
+                        "country_id": "47",
+                        "short_name": "巴甲",
+                        "standard_name": "巴西甲级联赛",
+                        "sb_name": "巴西甲级联赛"
+                    },
+                    "host": {
+                        "id": "4286",
+                        "name": "桑托斯",
+                        "standard_name": "桑托斯",
+                        "sb_name": "桑托斯"
+                    },
+                    "guest": {
+                        "id": "1645",
+                        "name": "沙佩科恩斯",
+                        "standard_name": "沙佩科恩斯",
+                        "sb_name": "沙佩科恩斯"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3862265",
+                "type": "rangfen",
+                "pankou": "-0.5,-1.0",
+                "peilv": "2.025",
+                "yazhu": "lt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "0",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500478158",
+                "reason": "",
+                "all_peilv": "1.825|2.025",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/780d24fca73aefc6049c4f86cc5bf0d6.jpg",
+                    "user_id": "33421",
+                    "username": "吴下阿蒙",
+                    "is_zhuanti": "0",
+                    "level": "19",
+                    "bangdan_type": "zhuanjia_week_yinglilv",
+                    "bangdan_order": "26",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347428",
+                    "status": "1",
+                    "race_time": "1500532200",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "251",
+                        "name": "巴西甲级联赛",
+                        "country_id": "47",
+                        "short_name": "巴甲",
+                        "standard_name": "巴西甲级联赛",
+                        "sb_name": "巴西甲级联赛"
+                    },
+                    "host": {
+                        "id": "4286",
+                        "name": "桑托斯",
+                        "standard_name": "桑托斯",
+                        "sb_name": "桑托斯"
+                    },
+                    "guest": {
+                        "id": "1645",
+                        "name": "沙佩科恩斯",
+                        "standard_name": "沙佩科恩斯",
+                        "sb_name": "沙佩科恩斯"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 1
+            },
+            {
+                "id": "3862266",
+                "type": "rangfen",
+                "pankou": "-0.5",
+                "peilv": "2.050",
+                "yazhu": "lt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "0",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500478175",
+                "reason": "",
+                "all_peilv": "1.800|2.050",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/780d24fca73aefc6049c4f86cc5bf0d6.jpg",
+                    "user_id": "33421",
+                    "username": "吴下阿蒙",
+                    "is_zhuanti": "0",
+                    "level": "19",
+                    "bangdan_type": "zhuanjia_week_yinglilv",
+                    "bangdan_order": "26",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346558",
+                    "status": "1",
+                    "race_time": "1500535800",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "252",
+                        "name": "美国职业足球大联盟",
+                        "country_id": "6",
+                        "short_name": "美职联",
+                        "standard_name": "美国职业足球大联盟",
+                        "sb_name": "美国职业足球大联盟"
+                    },
+                    "host": {
+                        "id": "11971",
+                        "name": "纽约城FC",
+                        "standard_name": "纽约城FC",
+                        "sb_name": "纽约城"
+                    },
+                    "guest": {
+                        "id": "2145",
+                        "name": "多伦多FC",
+                        "standard_name": "多伦多FC",
+                        "sb_name": "多伦多FC"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 1
+            },
+            {
+                "id": "3867065",
+                "type": "rangfen",
+                "pankou": "-0.5,-1.0",
+                "peilv": "1.800",
+                "yazhu": "gt",
+                "yazhu_coin": "300",
+                "shoufei_coin": "50",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500505456",
+                "reason": "",
+                "all_peilv": "1.800|2.050",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/7dc63db29e91cecf24fe5a376c64df4f.jpg",
+                    "user_id": "27144",
+                    "username": "jjm524",
+                    "is_zhuanti": "0",
+                    "level": "23",
+                    "bangdan_type": "zhuanjia_quarter_yinglilv",
+                    "bangdan_order": "27",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346559",
+                    "status": "1",
+                    "race_time": "1500535800",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "252",
+                        "name": "美国职业足球大联盟",
+                        "country_id": "6",
+                        "short_name": "美职联",
+                        "standard_name": "美国职业足球大联盟",
+                        "sb_name": "美国职业足球大联盟"
+                    },
+                    "host": {
+                        "id": "2529",
+                        "name": "纽约红牛",
+                        "standard_name": "纽约红牛",
+                        "sb_name": "纽约红牛"
+                    },
+                    "guest": {
+                        "id": "3138",
+                        "name": "圣荷西地震",
+                        "standard_name": "圣荷西地震",
+                        "sb_name": "圣何塞地震"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867067",
+                "type": "win_lose",
+                "pankou": "-",
+                "peilv": "2.100",
+                "yazhu": "gt",
+                "yazhu_coin": "300",
+                "shoufei_coin": "50",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500505468",
+                "reason": "",
+                "all_peilv": "2.100|3.500|3.400",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/7dc63db29e91cecf24fe5a376c64df4f.jpg",
+                    "user_id": "27144",
+                    "username": "jjm524",
+                    "is_zhuanti": "0",
+                    "level": "23",
+                    "bangdan_type": "zhuanjia_quarter_yinglilv",
+                    "bangdan_order": "27",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346557",
+                    "status": "1",
+                    "race_time": "1500535800",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "252",
+                        "name": "美国职业足球大联盟",
+                        "country_id": "6",
+                        "short_name": "美职联",
+                        "standard_name": "美国职业足球大联盟",
+                        "sb_name": "美国职业足球大联盟"
+                    },
+                    "host": {
+                        "id": "2595",
+                        "name": "蒙特利尔冲击",
+                        "standard_name": "蒙特利尔冲击",
+                        "sb_name": "蒙特利尔冲击"
+                    },
+                    "guest": {
+                        "id": "3083",
+                        "name": "费城联合",
+                        "standard_name": "费城联合",
+                        "sb_name": "费城联合"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867072",
+                "type": "rangfen",
+                "pankou": "-0.5",
+                "peilv": "1.825",
+                "yazhu": "gt",
+                "yazhu_coin": "300",
+                "shoufei_coin": "50",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500505478",
+                "reason": "",
+                "all_peilv": "1.825|2.025",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/7dc63db29e91cecf24fe5a376c64df4f.jpg",
+                    "user_id": "27144",
+                    "username": "jjm524",
+                    "is_zhuanti": "0",
+                    "level": "23",
+                    "bangdan_type": "zhuanjia_quarter_yinglilv",
+                    "bangdan_order": "27",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346558",
+                    "status": "1",
+                    "race_time": "1500535800",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "252",
+                        "name": "美国职业足球大联盟",
+                        "country_id": "6",
+                        "short_name": "美职联",
+                        "standard_name": "美国职业足球大联盟",
+                        "sb_name": "美国职业足球大联盟"
+                    },
+                    "host": {
+                        "id": "11971",
+                        "name": "纽约城FC",
+                        "standard_name": "纽约城FC",
+                        "sb_name": "纽约城"
+                    },
+                    "guest": {
+                        "id": "2145",
+                        "name": "多伦多FC",
+                        "standard_name": "多伦多FC",
+                        "sb_name": "多伦多FC"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3862228",
+                "type": "rangfen",
+                "pankou": "0.0",
+                "peilv": "1.775",
+                "yazhu": "lt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "50",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500476868",
+                "reason": "",
+                "all_peilv": "2.100|1.775",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "1",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/41ba280abf583cefaa4d9e39d5db8066.jpg",
+                    "user_id": "100958",
+                    "username": "伊布足球",
+                    "is_zhuanti": "0",
+                    "level": "29",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "14",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346560",
+                    "status": "1",
+                    "race_time": "1500537600",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "252",
+                        "name": "美国职业足球大联盟",
+                        "country_id": "6",
+                        "short_name": "美职联",
+                        "standard_name": "美国职业足球大联盟",
+                        "sb_name": "美国职业足球大联盟"
+                    },
+                    "host": {
+                        "id": "25230",
+                        "name": "Minnesota United",
+                        "standard_name": "Minnesota United",
+                        "sb_name": "Minnesota United"
+                    },
+                    "guest": {
+                        "id": "1643",
+                        "name": "休斯顿迪纳摩",
+                        "standard_name": "休斯顿迪纳摩",
+                        "sb_name": "休斯敦迪纳摩"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3862232",
+                "type": "win_lose",
+                "pankou": "-",
+                "peilv": "1.950",
+                "yazhu": "lt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "50",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500477033",
+                "reason": "1-2,0-1",
+                "all_peilv": "4.000|3.300|1.950",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "1",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/41ba280abf583cefaa4d9e39d5db8066.jpg",
+                    "user_id": "100958",
+                    "username": "伊布足球",
+                    "is_zhuanti": "0",
+                    "level": "29",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "14",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347431",
+                    "status": "1",
+                    "race_time": "1500537600",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "251",
+                        "name": "巴西甲级联赛",
+                        "country_id": "47",
+                        "short_name": "巴甲",
+                        "standard_name": "巴西甲级联赛",
+                        "sb_name": "巴西甲级联赛"
+                    },
+                    "host": {
+                        "id": "1490",
+                        "name": "阿瓦伊",
+                        "standard_name": "阿瓦伊",
+                        "sb_name": "奥瓦"
+                    },
+                    "guest": {
+                        "id": "6296",
+                        "name": "科林蒂安",
+                        "standard_name": "科林蒂安",
+                        "sb_name": "科林蒂安"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3866186",
+                "type": "daxiao",
+                "pankou": "3.0",
+                "peilv": "1.850",
+                "yazhu": "gt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "1",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500501315",
+                "reason": "",
+                "all_peilv": "1.850|1.950",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/176699c00e5861203e3872faa8fc5961.jpg",
+                    "user_id": "48084",
+                    "username": "买球就靠蒙",
+                    "is_zhuanti": "0",
+                    "level": "24",
+                    "bangdan_type": "zhuanjia_month_yinglilv",
+                    "bangdan_order": "18",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "344379",
+                    "status": "1",
+                    "race_time": "1500537600",
+                    "focus": "2",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "1697",
+                        "name": "精英友谊赛",
+                        "country_id": "4",
+                        "short_name": "精英友谊",
+                        "standard_name": "精英友谊赛",
+                        "sb_name": "精英友谊赛"
+                    },
+                    "host": {
+                        "id": "168",
+                        "name": "罗马",
+                        "standard_name": "罗马",
+                        "sb_name": "罗马"
+                    },
+                    "guest": {
+                        "id": "5924",
+                        "name": "巴黎圣日尔曼",
+                        "standard_name": "巴黎圣日尔曼",
+                        "sb_name": "巴黎圣日尔曼"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3867077",
+                "type": "win_lose",
+                "pankou": "-",
+                "peilv": "1.909",
+                "yazhu": "gt",
+                "yazhu_coin": "305",
+                "shoufei_coin": "100",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500505499",
+                "reason": "",
+                "all_peilv": "1.909|3.600|3.750",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/7dc63db29e91cecf24fe5a376c64df4f.jpg",
+                    "user_id": "27144",
+                    "username": "jjm524",
+                    "is_zhuanti": "0",
+                    "level": "23",
+                    "bangdan_type": "zhuanjia_quarter_yinglilv",
+                    "bangdan_order": "27",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "346561",
+                    "status": "1",
+                    "race_time": "1500546600",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "252",
+                        "name": "美国职业足球大联盟",
+                        "country_id": "6",
+                        "short_name": "美职联",
+                        "standard_name": "美国职业足球大联盟",
+                        "sb_name": "美国职业足球大联盟"
+                    },
+                    "host": {
+                        "id": "1683",
+                        "name": "洛杉矶银河",
+                        "standard_name": "洛杉矶银河",
+                        "sb_name": "洛杉矶银河"
+                    },
+                    "guest": {
+                        "id": "2527",
+                        "name": "温哥华白帽",
+                        "standard_name": "温哥华白帽",
+                        "sb_name": "温哥华白帽"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 0
+            },
+            {
+                "id": "3863252",
+                "type": "win_lose",
+                "pankou": "-",
+                "peilv": "1.333",
+                "yazhu": "gt",
+                "yazhu_coin": "100",
+                "shoufei_coin": "0",
+                "jieguo": "-100",
+                "jieguo_coin": "0",
+                "jieguo_time": "0",
+                "add_time": "1500485892",
+                "reason": "",
+                "all_peilv": "1.333|4.500|7.000",
+                "lang_type_id": "1",
+                "is_inplay": "0",
+                "is_hide_type": "0",
+                "user": {
+                    "photo_url": "https://s.besget.com/profile/200/ee57a0c7a4c63e2e50dbff8b8529f42d.jpg",
+                    "user_id": "86111",
+                    "username": "zudiak13",
+                    "is_zhuanti": "0",
+                    "level": "20",
+                    "bangdan_type": "zhuanjia_week_yinglilv",
+                    "bangdan_order": "5",
+                    "bangdan_is_inplay": 0
+                },
+                "race": {
+                    "id": "347718",
+                    "status": "1",
+                    "race_time": "1500752100",
+                    "focus": "0",
+                    "important": "0",
+                    "host_pm": null,
+                    "guest_pm": null,
+                    "zhanyi": "0",
+                    "time_status": "0",
+                    "league": {
+                        "id": "2",
+                        "name": "中超联赛",
+                        "country_id": "1",
+                        "short_name": "中超",
+                        "standard_name": "中超联赛",
+                        "sb_name": "中国超级联赛"
+                    },
+                    "host": {
+                        "id": "19561",
+                        "name": "江苏苏宁",
+                        "standard_name": "江苏苏宁",
+                        "sb_name": "江苏苏宁"
+                    },
+                    "guest": {
+                        "id": "1228",
+                        "name": "辽宁宏运",
+                        "standard_name": "辽宁宏运",
+                        "sb_name": "辽宁沈阳宏运"
+                    },
+                    "sport_id": 1
+                },
+                "can_view_jingcai": 1
+            }
+        ],
+        "users": [
+            {
+                "photo_url": "https://s.besget.com/profile/200/ee57a0c7a4c63e2e50dbff8b8529f42d.jpg",
+                "user_id": "86111",
+                "username": "zudiak13",
+                "is_zhuanti": "0",
+                "level": "20",
+                "is_vip": 0
+            },
+            {
+                "photo_url": "https://s.besget.com/profile/200/3a26d598956c9ffac481450a29c92dd9.jpg",
+                "user_id": "113290",
+                "username": "诺坎普之王Messi",
+                "is_zhuanti": "0",
+                "level": "16",
+                "is_vip": 0
+            },
+            {
+                "photo_url": "https://s.besget.com/profile/200/58d30d478b80359b39aeafbf1227e5f7.jpg",
+                "user_id": "18572",
+                "username": "高阶膜法师华少",
+                "is_zhuanti": "0",
+                "level": "28",
+                "is_vip": 0
+            },
+            {
+                "photo_url": "https://s.besget.com/profile/200/94d4c2e001d0ced2f4bfbf04734dd1f5.jpg",
+                "user_id": "162553",
+                "username": "微博名叫走地自律",
+                "is_zhuanti": "0",
+                "level": "5",
+                "is_vip": 0
+            },
+            {
+                "photo_url": "https://s.besget.com/profile/200/49107804c962de8cf59dc4eb8d0237ff.jpg",
+                "user_id": "27419",
+                "username": "olimo",
+                "is_zhuanti": "0",
+                "level": "27",
+                "is_vip": 0
+            },
+            {
+                "photo_url": "https://s.besget.com/profile/200/7dc63db29e91cecf24fe5a376c64df4f.jpg",
+                "user_id": "27144",
+                "username": "jjm524",
+                "is_zhuanti": "0",
+                "level": "23",
+                "is_vip": 0
+            },
+            {
+                "photo_url": "https://s.besget.com/profile/200/cc9ecd1dfaff7f6b42879eb0cca23309.jpg",
+                "user_id": "166723",
+                "username": "三师弟",
+                "is_zhuanti": "0",
+                "level": "4",
+                "is_vip": 0
+            }
+        ],
+        "status": 200,
+        "result": "success"
+    },
+    {
+        "total": 55,
+        "page": 3,
+        "per_page": 30,
+        "jingcai": [],
+        "users": [
+            {
+                "photo_url": "https://s.besget.com/profile/200/ca2bdbfe18265a8285da4b2fc5098e57.jpg",
+                "user_id": "154602",
+                "username": "pengyao119",
+                "is_zhuanti": "0",
+                "level": "10",
+                "is_vip": 0
+            },
+            {
+                "photo_url": "https://s.besget.com/profile/200/c641c3642a690e21d0935fd8ec9acb67.jpg",
+                "user_id": "162311",
+                "username": "史蒂芬-库里",
+                "is_zhuanti": "0",
+                "level": "8",
+                "is_vip": 0
+            },
+            {
+                "photo_url": "https://s.besget.com/profile/200/9a6bc356574285c92111f38fee873d8c.jpg",
+                "user_id": "105727",
+                "username": "初滚足篮",
+                "is_zhuanti": "0",
+                "level": "5",
+                "is_vip": 0
+            },
+            {
+                "photo_url": "https://s.besget.com/profile/200/549f9f0dc4f0e1362672fa71fcd81074.jpg",
+                "user_id": "160332",
+                "username": "大牛比较懒",
+                "is_zhuanti": "0",
+                "level": "9",
+                "is_vip": 0
+            },
+            {
+                "photo_url": "https://s.besget.com/profile/200/f2d379b918dcda9d7e2286918e7f7e59.jpg",
+                "user_id": "100309",
+                "username": "tsaryang",
+                "is_zhuanti": "0",
+                "level": "25",
+                "is_vip": 0
+            },
+            {
+                "photo_url": "https://s.besget.com/profile/200/7dc63db29e91cecf24fe5a376c64df4f.jpg",
+                "user_id": "27144",
+                "username": "jjm524",
+                "is_zhuanti": "0",
+                "level": "23",
+                "is_vip": 0
+            },
+            {
+                "photo_url": "https://s.besget.com/profile/200/780d24fca73aefc6049c4f86cc5bf0d6.jpg",
+                "user_id": "33421",
+                "username": "吴下阿蒙",
+                "is_zhuanti": "0",
+                "level": "19",
+                "is_vip": 0
+            }
+        ],
+        "status": 200,
+        "result": "success"
+    }
+]

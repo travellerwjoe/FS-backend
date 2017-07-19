@@ -2,15 +2,32 @@ const request = require('superagent');
 const url = require('url');
 const config = require('./config');
 const utils = require('./utils');
+const token = require('./token').token
 
 class Api {
     constructor() {
         this.baseUrl = config.ApiBaseUrl;
-        this.token = null;
+        this.token = token;
         this.pageSize = config.PageSize;
         this.user = config.UserName;
         this.hash = config.Hash;
-        this.login()
+        this.checkLogin()
+    }
+    async checkLogin() {
+        const res = JSON.parse(await this.getUserInfo())
+        if (res.status !== 200) {
+            await this.login()
+            this.checkLogin()
+            return false
+        }
+        return true
+    }
+    getUserInfo() {
+        const apiUrl = url.resolve(this.baseUrl, 'v3/user')
+        const data = {
+            token: this.token
+        }
+        return this.get(apiUrl, data)
     }
     getLive() {
         // const apiUrl = url.resolve(this.baseUrl, 'score/data');
@@ -26,7 +43,7 @@ class Api {
         return this.get(apiUrl, data)
     }
     //获取比赛竞猜专家栏
-    async getLotteryWithExpert(matchID, page) {
+    getLotteryWithExpert(matchID, page) {
         const apiUrl = url.resolve(this.baseUrl, 'v4/jingcai/list');
         const data = {
             race_id: matchID,
@@ -59,15 +76,16 @@ class Api {
         const result = await this.get(apiUrl, data);
         const resultObj = JSON.parse(result);
         this.token = resultObj.access && resultObj.access.token
+        utils.saveToken(this.token)
         return result
     }
     get(url, data) {
         return this.request(url, 'get', data)
     }
-    post(url, data, isSendForm) {
+    post(url, data, isSendAsForm = false) {
         return this.request(url, 'post', data, isSendAsForm)
     }
-    request(url, method, data, isSendAsForm) {
+    request(url, method, data, isSendAsForm = false) {
         return new Promise((resolve, reject) => {
             let req;
             if (method.toLowerCase() === 'get') {
@@ -88,4 +106,4 @@ class Api {
     }
 }
 
-module.exports = new Api();
+module.exports = Api;

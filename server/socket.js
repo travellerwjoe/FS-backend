@@ -1,6 +1,7 @@
-const api = require('./api')
+const Api = require('./api')
 const config = require('./config')
 
+const api = new Api();
 module.exports = http => {
     const io = require('socket.io')(http);
     let t;

@@ -1,0 +1,938 @@
+[
+    {
+        "matchID": "335172",
+        "league": "瑞典超级联赛",
+        "match": "斯瑞斯-哈尔姆斯达斯",
+        "racetime": "2017-06-04 23:30",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "gt": 2
+                }
+            },
+            "rangfen": {
+                "-0.5,-1.0": {
+                    "gt": 4,
+                    "lt": 1
+                }
+            },
+            "daxiao": {
+                "2.5": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335171",
+        "league": "瑞典超级联赛",
+        "match": "IFK诺科平-IFK哥德堡",
+        "racetime": "2017-06-04 23:32",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "eq": 1,
+                    "gt": 1
+                }
+            },
+            "rangfen": {
+                "-0.5": {
+                    "gt": 4,
+                    "lt": 2
+                },
+                "0.0,-0.5": {
+                    "gt": 2,
+                    "lt": 1
+                }
+            },
+            "daxiao": {
+                "2.5,3.0": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335815",
+        "league": "芬兰超级联赛",
+        "match": "古比斯-玛丽港",
+        "racetime": "2017-06-04 23:33",
+        "jingcai": {
+            "rangfen": {
+                "-0.5": {
+                    "lt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335879",
+        "league": "芬兰超级联赛",
+        "match": "洛凡尼米-赫尔辛基",
+        "racetime": "2017-06-04 23:34",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "lt": 4,
+                    "eq": 1
+                }
+            },
+            "rangfen": {
+                "+1.5": {
+                    "gt": 2,
+                    "lt": 3
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335816",
+        "league": "芬兰超级联赛",
+        "match": "西菲克-FC爱尔维斯",
+        "racetime": "2017-06-04 23:36",
+        "jingcai": {
+            "rangfen": {
+                "0.0,-0.5": {
+                    "gt": 1,
+                    "lt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335139",
+        "league": "挪威Eliteserien",
+        "match": "桑恩达-桑纳菲奥尔",
+        "racetime": "2017-06-04 23:59",
+        "jingcai": {
+            "rangfen": {
+                "-0.5": {
+                    "lt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "336228",
+        "league": "白俄罗斯超级联赛",
+        "match": "波里索夫巴迪-迪尼普莫吉莱夫",
+        "racetime": "2017-06-04 23:59",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335141",
+        "league": "挪威Eliteserien",
+        "match": "罗森博格-史卓加斯特",
+        "racetime": "2017-06-05 00:00",
+        "jingcai": {
+            "daxiao": {
+                "3.0": {
+                    "gt": 2
+                }
+            },
+            "rangfen": {
+                "-1.0,-1.5": {
+                    "gt": 2,
+                    "lt": 1
+                }
+            },
+            "win_lose": {
+                "-": {
+                    "gt": 4
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335143",
+        "league": "挪威Eliteserien",
+        "match": "阿利辛特-候格森德",
+        "racetime": "2017-06-05 00:05",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "gt": 1
+                }
+            },
+            "rangfen": {
+                "-0.5": {
+                    "lt": 2,
+                    "gt": 3
+                }
+            },
+            "daxiao": {
+                "2.5,3.0": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "336446",
+        "league": "国际比赛",
+        "match": "亚美尼亚-St Kitts & Nevis",
+        "racetime": "2017-06-05 00:05",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335659",
+        "league": "挪威甲级联赛",
+        "match": "欧伦萨可/基萨-广士云格",
+        "racetime": "2017-06-05 00:05",
+        "jingcai": {
+            "daxiao": {
+                "3.0": {
+                    "gt": 2
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335142",
+        "league": "挪威Eliteserien",
+        "match": "萨普斯堡-莫尔德",
+        "racetime": "2017-06-05 00:05",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "gt": 1
+                }
+            },
+            "rangfen": {
+                "-0.5,-1.0": {
+                    "lt": 1,
+                    "gt": 1
+                },
+                "-0.5": {
+                    "lt": 1
+                }
+            },
+            "daxiao": {
+                "2.5,3.0": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335140",
+        "league": "挪威Eliteserien",
+        "match": "维京FK-克里斯达桑德 BK",
+        "racetime": "2017-06-05 00:05",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "gt": 5
+                }
+            },
+            "daxiao": {
+                "2.0,2.5": {
+                    "gt": 3
+                }
+            },
+            "rangfen": {
+                "-0.5,-1.0": {
+                    "gt": 3
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335658",
+        "league": "挪威甲级联赛",
+        "match": "弗洛罗-山达勒",
+        "racetime": "2017-06-05 00:05",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "lt": 2
+                }
+            },
+            "daxiao": {
+                "2.5": {
+                    "gt": 2
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335655",
+        "league": "挪威甲级联赛",
+        "match": "乐范格尔-阿桑尼",
+        "racetime": "2017-06-05 00:05",
+        "jingcai": {
+            "rangfen": {
+                "-0.5": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335597",
+        "league": "波兰Ekstraklasa",
+        "match": "华沙莱吉亚-列治亚 格丹斯克",
+        "racetime": "2017-06-05 00:05",
+        "jingcai": {
+            "rangfen": {
+                "-0.5,-1.0": {
+                    "gt": 1
+                }
+            },
+            "win_lose": {
+                "-": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335596",
+        "league": "波兰Ekstraklasa",
+        "match": "克拉科夫维斯拉-Termalica BB尼切萨",
+        "racetime": "2017-06-05 00:05",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335595",
+        "league": "波兰Ekstraklasa",
+        "match": "乔治罗尼亚-莱克",
+        "racetime": "2017-06-05 00:05",
+        "jingcai": {
+            "rangfen": {
+                "0.0": {
+                    "lt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "336472",
+        "league": "葡萄牙杯 女子",
+        "match": "Sporting Women-布拉加 女子",
+        "racetime": "2017-06-05 00:16",
+        "jingcai": {
+            "daxiao": {
+                "2.5": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335255",
+        "league": "国际比赛",
+        "match": "爱尔兰-乌拉圭",
+        "racetime": "2017-06-05 01:00",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "lt": 1
+                }
+            },
+            "rangfen": {
+                "0.0": {
+                    "lt": 2,
+                    "gt": 1
+                }
+            },
+            "daxiao": {
+                "2.0,2.5": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335627",
+        "league": "冰岛超级联赛",
+        "match": "华路-IBV 韦斯文尼查",
+        "racetime": "2017-06-05 01:03",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "gt": 2
+                }
+            },
+            "rangfen": {
+                "-1.0": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "336599",
+        "league": "西班牙乙二级联赛季后赛",
+        "match": "维拉洛尼斯-桑坦德竞技",
+        "racetime": "2017-06-05 01:03",
+        "jingcai": {
+            "rangfen": {
+                "0.0": {
+                    "lt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "336447",
+        "league": "国际比赛",
+        "match": "卢森堡-阿尔巴尼亚",
+        "racetime": "2017-06-05 01:05",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "lt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335871",
+        "league": "阿根廷Primera Division",
+        "match": "圣罗伦索-河床",
+        "racetime": "2017-06-05 01:05",
+        "jingcai": {
+            "daxiao": {
+                "2.0,2.5": {
+                    "gt": 1
+                }
+            },
+            "win_lose": {
+                "-": {
+                    "gt": 1
+                }
+            },
+            "rangfen": {
+                "0.0": {
+                    "gt": 2
+                }
+            }
+        }
+    },
+    {
+        "matchID": "336433",
+        "league": "阿根廷Primera B Metropolitana",
+        "match": "阿卡苏索-贝尔格拉诺防卫者",
+        "racetime": "2017-06-05 01:05",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "lt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335245",
+        "league": "国际比赛",
+        "match": "荷兰-科特迪瓦",
+        "racetime": "2017-06-05 01:30",
+        "jingcai": {
+            "rangfen": {
+                "-0.5,-1.0": {
+                    "lt": 1,
+                    "gt": 2
+                },
+                "-1.0": {
+                    "gt": 1
+                }
+            },
+            "win_lose": {
+                "-": {
+                    "gt": 2
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335144",
+        "league": "挪威Eliteserien",
+        "match": "奥特足球俱乐部-布兰",
+        "racetime": "2017-06-05 02:00",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "eq": 1
+                }
+            },
+            "rangfen": {
+                "0.0": {
+                    "lt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335348",
+        "league": "西班牙乙级联赛",
+        "match": "卡迪斯-艾尔切",
+        "racetime": "2017-06-05 02:00",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335352",
+        "league": "西班牙乙级联赛",
+        "match": "米兰德斯-马洛卡",
+        "racetime": "2017-06-05 02:00",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "lt": 2
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335349",
+        "league": "西班牙乙级联赛",
+        "match": "赫塔菲-艾美利亚",
+        "racetime": "2017-06-05 02:00",
+        "jingcai": {
+            "daxiao": {
+                "2.0,2.5": {
+                    "gt": 1
+                }
+            },
+            "win_lose": {
+                "-": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335356",
+        "league": "西班牙乙级联赛",
+        "match": "UCAM穆西亚-艾科坎",
+        "racetime": "2017-06-05 02:00",
+        "jingcai": {
+            "rangfen": {
+                "0.0,-0.5": {
+                    "lt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335355",
+        "league": "西班牙乙级联赛",
+        "match": "特内里费-塔拉戈纳竞技",
+        "racetime": "2017-06-05 02:00",
+        "jingcai": {
+            "rangfen": {
+                "-0.5": {
+                    "gt": 1
+                }
+            },
+            "win_lose": {
+                "-": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "336367",
+        "league": "乌拉圭Torneo Intermedio",
+        "match": "罗姆帕拉青年-防卫者体育",
+        "racetime": "2017-06-05 02:00",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "lt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "336366",
+        "league": "乌拉圭Torneo Intermedio",
+        "match": "坦基西斯莱-佩萊紮",
+        "racetime": "2017-06-05 02:00",
+        "jingcai": {
+            "corner": {
+                "10": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335672",
+        "league": "国际比赛",
+        "match": "黑山-伊朗",
+        "racetime": "2017-06-05 02:30",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "gt": 2
+                }
+            },
+            "rangfen": {
+                "0.0,-0.5": {
+                    "lt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "336194",
+        "league": "意大利丙级联赛附加赛",
+        "match": "路查斯-帕尔玛",
+        "racetime": "2017-06-05 02:30",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "lt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335622",
+        "league": "意大利乙级联赛附加赛",
+        "match": "加彼-贝内文托",
+        "racetime": "2017-06-05 02:30",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "336247",
+        "league": "土耳其1 Lig",
+        "match": "埃斯基希体育-哥兹塔比",
+        "racetime": "2017-06-05 02:30",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335319",
+        "league": "巴西甲级联赛",
+        "match": "帕尔梅拉斯-米内罗竞技",
+        "racetime": "2017-06-05 03:00",
+        "jingcai": {
+            "rangfen": {
+                "-0.5": {
+                    "lt": 1
+                },
+                "-0.5,-1.0": {
+                    "gt": 1
+                }
+            },
+            "win_lose": {
+                "-": {
+                    "gt": 2
+                }
+            },
+            "daxiao": {
+                "2.5,3.0": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335318",
+        "league": "巴西甲级联赛",
+        "match": "格雷米奥-瓦斯科达伽马",
+        "racetime": "2017-06-05 03:00",
+        "jingcai": {
+            "rangfen": {
+                "-1.0": {
+                    "gt": 1,
+                    "lt": 1
+                }
+            },
+            "win_lose": {
+                "-": {
+                    "gt": 2
+                }
+            }
+        }
+    },
+    {
+        "matchID": "336854",
+        "league": "Venezuela Primera Women",
+        "match": "Lala FC Women-Deportivo La Guaira Women",
+        "racetime": "2017-06-05 03:00",
+        "jingcai": {
+            "daxiao": {
+                "4.0": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335872",
+        "league": "阿根廷Primera Division",
+        "match": "格纳斯亚-班菲尔德",
+        "racetime": "2017-06-05 03:00",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "lt": 1
+                }
+            },
+            "rangfen": {
+                "0.0": {
+                    "lt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "336542",
+        "league": "美国NWSL 女子",
+        "match": "芝加哥红星 女子-西雅图帝王 女子",
+        "racetime": "2017-06-05 03:00",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335320",
+        "league": "巴西甲级联赛",
+        "match": "篷特普雷达-圣保罗",
+        "racetime": "2017-06-05 03:00",
+        "jingcai": {
+            "rangfen": {
+                "0.0": {
+                    "lt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335812",
+        "league": "阿根廷Primera Division",
+        "match": "贝尔格拉诺-沙兰迪阿森纳",
+        "racetime": "2017-06-05 03:15",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "eq": 1,
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "336579",
+        "league": "委內瑞拉超级联赛",
+        "match": "阿拉瓜-卡拉波波",
+        "racetime": "2017-06-05 03:30",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "lt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335873",
+        "league": "阿根廷Primera Division",
+        "match": "奥里姆普-飓风",
+        "racetime": "2017-06-05 04:00",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "eq": 1
+                }
+            },
+            "rangfen": {
+                "0.0,-0.5": {
+                    "lt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "336701",
+        "league": "巴拉圭后备队联赛",
+        "match": "奥林匹亚亚松森 后备队-亚松森国民 后备队",
+        "racetime": "2017-06-05 04:00",
+        "jingcai": {
+            "daxiao": {
+                "3.0": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "336312",
+        "league": "秘鲁甲级联赛",
+        "match": "Comerciantes Unidos-水晶运动",
+        "racetime": "2017-06-05 04:30",
+        "jingcai": {
+            "rangfen": {
+                "0.0": {
+                    "lt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335874",
+        "league": "阿根廷Primera Division",
+        "match": "图库曼竞技-圣胡安圣马丁",
+        "racetime": "2017-06-05 05:30",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "eq": 1,
+                    "gt": 1
+                }
+            },
+            "rangfen": {
+                "-0.5": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335875",
+        "league": "阿根廷Primera Division",
+        "match": "博卡青年-CA 独立",
+        "racetime": "2017-06-05 06:00",
+        "jingcai": {
+            "rangfen": {
+                "-0.5": {
+                    "gt": 2
+                }
+            },
+            "daxiao": {
+                "2.0,2.5": {
+                    "gt": 1
+                }
+            },
+            "win_lose": {
+                "-": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335321",
+        "league": "巴西甲级联赛",
+        "match": "克鲁塞罗-沙佩科恩斯",
+        "racetime": "2017-06-05 06:00",
+        "jingcai": {
+            "rangfen": {
+                "-1.0": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335663",
+        "league": "巴拉圭专业联赛",
+        "match": "亚松森奥林匹亚-巴拉圭国民",
+        "racetime": "2017-06-05 06:10",
+        "jingcai": {
+            "rangfen": {
+                "-0.5,-1.0": {
+                    "lt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335637",
+        "league": "美国职业足球大联盟",
+        "match": "奥兰多城-芝加哥火焰",
+        "racetime": "2017-06-05 07:30",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "lt": 1,
+                    "gt": 1
+                }
+            },
+            "rangfen": {
+                "0.0,-0.5": {
+                    "lt": 2
+                }
+            },
+            "daxiao": {
+                "2.5,3.0": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "336360",
+        "league": "哥伦比亚 附加赛",
+        "match": "麦德林独立-卡利竞技",
+        "racetime": "2017-06-05 08:30",
+        "jingcai": {
+            "win_lose": {
+                "-": {
+                    "gt": 1
+                }
+            }
+        }
+    },
+    {
+        "matchID": "335638",
+        "league": "美国职业足球大联盟",
+        "match": "西雅图音速FC-休斯顿迪纳摩",
+        "racetime": "2017-06-05 10:00",
+        "jingcai": {
+            "rangfen": {
+                "-0.5,-1.0": {
+                    "gt": 1
+                }
+            },
+            "daxiao": {
+                "2.5,3.0": {
+                    "lt": 1
+                }
+            }
+        }
+    }
+]

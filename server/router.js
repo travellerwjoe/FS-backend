@@ -1,4 +1,5 @@
-const api = require('./api');
+const Api = require('./api');
+const api = new Api();
 module.exports = router => {
     router.get('/api/live', async (ctx, next) => {
         ctx.body = await api.getLive();
