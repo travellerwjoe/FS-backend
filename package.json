@@ -4,6 +4,7 @@
   "description": "FS backend project based on koajs",
   "main": "index.js",
   "scripts": {
+    "start": "pm2 start ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "TraJoe_Wu <traveller_wjoe@sina.com>",
@@ -19,6 +20,7 @@
   "devDependencies": {
     "babel-core": "^6.23.1",
     "babel-plugin-transform-async-to-generator": "^6.22.0",
-    "babel-plugin-transform-async-to-module-method": "^6.22.0"
+    "babel-plugin-transform-async-to-module-method": "^6.22.0",
+    "pm2": "^2.6.1"
   }
 }
